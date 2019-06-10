@@ -7,6 +7,11 @@ function smcl(dataset_name)
 % Algorithm for Imbalanced Data Clustering", IEEE Transactions on 
 % Cybernetics (TCYB), DOI:10.1109/TCYB.2019.2916196.
 
+% USAGE:
+%   smcl gaussian
+%   smcl ids2
+%   smcl banana
+%   smcl lithuanian
 
 % set random seed
 rng(123)
