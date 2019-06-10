@@ -8,6 +8,9 @@ function smcl(dataset_name)
 % Cybernetics (TCYB), DOI:10.1109/TCYB.2019.2916196.
 
 % USAGE:
+%   smcl dataset_name
+%   
+%   For example:
 %   smcl gaussian
 %   smcl ids2
 %   smcl banana
