@@ -8,6 +8,14 @@ Contact: lylylytc@gmail.com
 
 
 
+## Demo
+
+Number of seed points are gradually increased until one seed point is driven away by competitive learning.
+
+![smcl](./figures/smcl.gif)
+
+
+
 ## Usage
 
 Directly run smcl.m with dataset name as argument. For example:
@@ -92,10 +100,6 @@ smcl_result =
             dcv: 0.0371
     cluster_num: 4
 ```
-
-Moving trajectory of seed points:
-
-![smcl](./figures/smcl.gif)
 
 
 
