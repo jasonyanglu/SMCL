@@ -22,6 +22,8 @@ smcl gaussian
 
 The codes output four figures and a set of numerical metrics.
 
+Command line output:
+
 ```
 >> smcl gaussian
 SMCL starts on dataset gaussian...
@@ -91,13 +93,25 @@ smcl_result =
     cluster_num: 4
 ```
 
+Moving trajectory of seed points:
 
+![smcl](./figures/smcl.gif)
+
+
+
+Final positions of seed points by PNS:
 
 ![PNS_result](./figures/PNS_result.jpg)
 
+Global separability, global compactness and their sum:
+
 ![Global_measures](./figures/Global_measures.jpg)
 
+Gournd truth of the dataset:
+
 ![Ground_truth](./figures/Ground_truth.jpg)
+
+Clustering result of SMCL:
 
 ![SMCL_clustering_result](./figures/SMCL_clustering_result.jpg)
 
