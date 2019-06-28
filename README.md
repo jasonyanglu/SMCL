@@ -2,7 +2,7 @@
 
 Matlab code of SMCL (Self-Adaptive Multi-Prototype-based Competitive Learning)
 
-Author: [Yang Lu](https://lylylytc.github.io/)
+Author: [Yang Lu](https://jasonyanglu.github.io/)
 
 Contact: lylylytc@gmail.com
 
