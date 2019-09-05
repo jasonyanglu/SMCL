@@ -111,13 +111,13 @@ Global separability, global compactness and their sum:
 
 ![Global_measures](./figures/Global_measures.jpg)
 
-Gournd truth of the dataset:
-
-![Ground_truth](./figures/Ground_truth.jpg)
-
 Clustering result of SMCL:
 
 ![SMCL_clustering_result](./figures/SMCL_clustering_result.jpg)
+
+Gournd truth of the dataset:
+
+![Ground_truth](./figures/Ground_truth.jpg)
 
 
 
@@ -136,6 +136,6 @@ For the details of the datasets, please refer to the experiment part of the pape
 
 ## Paper
 
-Please cite the paper if the codes are helpful for you research.
+Please cite the paper if the codes are helpful to you research.
 
 Yang Lu, Yiu-ming Cheung, and Yuan Yan Tang, "Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering", _IEEE Transactions on Cybernetics (TCYB)_, DOI:10.1109/TCYB.2019.2916196.
